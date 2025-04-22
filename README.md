@@ -4,8 +4,8 @@
   <p style="font-size: 20px;">by 
     <a href="https://anvo25.github.io/">An Vo</a><sup>1</sup>,
     <a href="https://taesiri.ai/">Mohammad Reza Taesiri</a><sup>2</sup>, 
-    <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>3</sup>, 
-    <a href="http://resl.kaist.ac.kr/">Daeyoung Kim</a><sup>1</sup>
+    <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>3*</sup>, 
+    <a href="http://resl.kaist.ac.kr/">Daeyoung Kim</a><sup>1*</sup>
   </p>
   <p>
     <sup>*</sup>Equal advising<br>
