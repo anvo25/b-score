@@ -14,7 +14,6 @@
 
 [![Website](https://img.shields.io/badge/Project%20Website-bscore.github.io-4b44ce)](https://bscore.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.00000-b31b1b.svg)](https://arxiv.org)
-<!-- [![OpenReview](https://img.shields.io/badge/OpenReview-ICML%202025-orange)](https://openreview.net/forum?id=kl7SbPfBsB) -->
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 </div>
