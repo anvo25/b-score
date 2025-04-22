@@ -67,7 +67,7 @@ logs/<MODEL>/<TASK>/<CATEGORY>/temp_<T>/
 ## 📁 Tasks and Benchmarks
 
 - ✅ 2-Choice, 4-Choice, and 10-Choice subjective/random/objective questions
-- ✅ MMLU, CommonsenseQA, ARC-Challenge, HLE
+- ✅ MMLU, CommonsenseQA, HLE
 - ✅ BBQ: Ambiguous bias questions
 
 ---
