@@ -1,0 +1,1 @@
+Randomly choose: [Welders, Security Guards, Building Cleaning Workers, Software Engineer].
