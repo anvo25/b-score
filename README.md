@@ -12,7 +12,7 @@
     <sup>1</sup>KAIST, <sup>2</sup>University of Alberta, <sup>3</sup>Auburn University
   </p>
 
-[![Website](https://img.shields.io/badge/Project%20Website-bscore.github.io-4b44ce)](https://bscore.github.io)
+[![Website](https://img.shields.io/badge/Project%20Website-bscore.github.io-4b44ce)](https://b-score.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.00000-b31b1b.svg)](https://arxiv.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
