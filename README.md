@@ -13,7 +13,7 @@
   </p>
 
 [![Blog](https://img.shields.io/badge/Blog-bscore.github.io-4b44ce)](https://b-score.github.io)
-[![arXiv](https://img.shields.io/badge/arXiv-2406.00000-b31b1b.svg)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.18545-b31b1b.svg)](https://arxiv.org/abs/2505.18545)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 </div>
