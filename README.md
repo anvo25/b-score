@@ -109,8 +109,9 @@ src/
 
 ```bibtex
 @inproceedings{vo2025bscore,
-  title     = {B-score: Detecting biases in large language models using response history},
   author    = {Vo, An and Taesiri, Mohammad Reza and Nguyen, Anh Totti and Kim, Daeyoung},
+  title     = {B-score: Detecting biases in large language models using response history},
+  booktitle = {Forty-second International Conference on Machine Learning, {ICML} 2025},
   year      = {2025}
 }
 ```
