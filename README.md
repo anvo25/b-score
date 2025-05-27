@@ -4,12 +4,16 @@
   <p style="font-size: 20px;">by 
     <a href="https://anvo25.github.io/">An Vo</a><sup>1</sup>,
     <a href="https://taesiri.ai/">Mohammad Reza Taesiri</a><sup>2</sup>, 
-    <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>3*</sup>, 
-    <a href="http://resl.kaist.ac.kr/">Daeyoung Kim</a><sup>1*</sup>
+    <a href="http://resl.kaist.ac.kr/">Daeyoung Kim</a><sup>1*</sup>,
+    <a href="https://anhnguyen.me/research/">Anh Totti Nguyen</a><sup>3*</sup>
   </p>
   <p>
     <sup>*</sup>Equal advising<br>
     <sup>1</sup>KAIST, <sup>2</sup>University of Alberta, <sup>3</sup>Auburn University
+  </p>
+  
+  <p style="font-size: 18px; font-weight: bold;">
+    International Conference on Machine Learning (ICML 2025)
   </p>
 
 [![Blog](https://img.shields.io/badge/Blog-bscore.github.io-4b44ce)](https://b-score.github.io)
