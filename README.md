@@ -18,8 +18,8 @@
 
 [![Blog](https://img.shields.io/badge/Blog-bscore.github.io-4b44ce)](https://b-score.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18545-b31b1b.svg)](https://arxiv.org/abs/2505.18545)
+[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/anvo25/b-score)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-
 </div>
 
 ---
