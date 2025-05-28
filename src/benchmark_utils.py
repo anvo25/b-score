@@ -558,10 +558,7 @@ def calculate_overall_metrics(output_dir):
                         correct_metrics['Multi-turn Probability'].iloc[0])
                     metrics['b_metric'].append(
                         correct_metrics['B-metric'].iloc[0])
-                    
-                    # Rest of your existing code for other benchmarks...
-                    # ...
-    
+                        
     # Calculate overall metrics - different for BBQ vs. other benchmarks
     if benchmark_type == 'bbq':
         # For BBQ, we focus on bias patterns rather than accuracy
