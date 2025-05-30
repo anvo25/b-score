@@ -1,4 +1,4 @@
-# B-score: Detecting Biases in Large Language Models Using Response History
+# B-score: Detecting biases in large language models using response history
 
 <div align="center">    
   <p style="font-size: 20px;">by 
